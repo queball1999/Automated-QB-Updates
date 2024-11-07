@@ -1,3 +1,5 @@
+**All future improvements have moved to private repo. Message me if interested**
+
 # Automated-QB-Updates
 Powershell script to automate Quickbooks updates
 
